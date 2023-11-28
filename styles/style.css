@@ -15,3 +15,13 @@
 .material-icons{
   cursor: pointer;
 }
+
+.d-block mx-auto mb-4 responsive{
+  width: 25%;
+  height: auto;
+
+}
+
+.lead mb-4{
+  size: 60px;
+}
